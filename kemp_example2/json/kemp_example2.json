@@ -1,0 +1,93 @@
+{
+  "streams": [
+    {
+      "zone": "Plant",
+      "name": "F2",
+      "t_supply": {
+        "value": 170,
+        "unit": "degC"
+      },
+      "t_target": {
+        "value": 60,
+        "unit": "degC"
+      },
+      "heat_flow": {
+        "value": 330,
+        "unit": "kW"
+      },
+      "dt_cont": {
+        "value": 5,
+        "unit": "degC"
+      },
+      "loc": 0,
+      "index": 0
+    },
+    {
+      "zone": "Plant",
+      "name": "F4",
+      "t_supply": {
+        "value": 150,
+        "unit": "degC"
+      },
+      "t_target": {
+        "value": 30,
+        "unit": "degC"
+      },
+      "heat_flow": {
+        "value": 180,
+        "unit": "kW"
+      },
+      "dt_cont": {
+        "value": 5,
+        "unit": "degC"
+      },
+      "loc": 0,
+      "index": 0
+    },
+    {
+      "zone": "Plant",
+      "name": "F1",
+      "t_supply": {
+        "value": 20,
+        "unit": "degC"
+      },
+      "t_target": {
+        "value": 135,
+        "unit": "degC"
+      },
+      "heat_flow": {
+        "value": 230,
+        "unit": "kW"
+      },
+      "dt_cont": {
+        "value": 5,
+        "unit": "degC"
+      },
+      "loc": 0,
+      "index": 0
+    },
+    {
+      "zone": "Plant",
+      "name": "F3",
+      "t_supply": {
+        "value": 80,
+        "unit": "degC"
+      },
+      "t_target": {
+        "value": 140,
+        "unit": "degC"
+      },
+      "heat_flow": {
+        "value": 240,
+        "unit": "kW"
+      },
+      "dt_cont": {
+        "value": 5,
+        "unit": "degC"
+      },
+      "loc": 0,
+      "index": 0
+    }
+  ],
+  "options": {}
+}

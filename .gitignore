@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# GEKKO solver temp files
+gk_model*/
+*.apm
+*.csv.bak
+
+# Conda / virtual envs
+.env
+.venv
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results that should be regenerated (optional — remove lines to track outputs)
+# kemp_example/results/
+# kemp_example2/results/
+# kemp_example3/results/

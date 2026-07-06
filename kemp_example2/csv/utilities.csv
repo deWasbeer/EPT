@@ -1,0 +1,3 @@
+name,type,t_supply,t_target,dt_cont,price,htc,heat_flow
+,,degC,degC,degC,$/kW-y,,kW
+,,,,,,, 

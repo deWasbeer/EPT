@@ -1,0 +1,15 @@
+Zone,Zone Address,Target,Target Type,Graph Type,Graph Name,Index
+Site,Site,Site/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Site,Site,Site/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Site,Site,Site/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Site,Site,Site/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Site,Site,Site/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Site,Site,Site/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Site,Site,Site/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
+Plant,Site/Plant,Plant/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Plant,Site/Plant,Plant/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Plant,Site/Plant,Plant/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Plant,Site/Plant,Plant/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Plant,Site/Plant,Plant/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Plant,Site/Plant,Plant/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Plant,Site/Plant,Plant/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6

@@ -1,0 +1,6 @@
+zone,name,t_supply,t_target,heat_flow,dt_cont,htc,loc,index
+,,degC,degC,kW,degC,,,
+Plant,F2,170,60,330,5,,,
+Plant,F4,150,30,180,5,,,
+Plant,F1,20,135,230,5,,,
+Plant,F3,80,140,240,5,,,
