@@ -1,0 +1,120 @@
+Zone,Zone Address,Target,Target Type,Graph Type,Graph Name,Index
+Site,Site,Site/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Site,Site,Site/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Site,Site,Site/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Site,Site,Site/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Site,Site,Site/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Site,Site,Site/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Site,Site,Site/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
+Bleaching,Site/Bleaching,Bleaching/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Bleaching,Site/Bleaching,Bleaching/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Bleaching,Site/Bleaching,Bleaching/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Bleaching,Site/Bleaching,Bleaching/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Bleaching,Site/Bleaching,Bleaching/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Bleaching,Site/Bleaching,Bleaching/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Bleaching,Site/Bleaching,Bleaching/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
+Causticizing,Site/Causticizing,Causticizing/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Causticizing,Site/Causticizing,Causticizing/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Causticizing,Site/Causticizing,Causticizing/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Causticizing,Site/Causticizing,Causticizing/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Causticizing,Site/Causticizing,Causticizing/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Causticizing,Site/Causticizing,Causticizing/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Causticizing,Site/Causticizing,Causticizing/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
+Digestion,Site/Digestion,Digestion/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Digestion,Site/Digestion,Digestion/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Digestion,Site/Digestion,Digestion/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Digestion,Site/Digestion,Digestion/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Digestion,Site/Digestion,Digestion/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Digestion,Site/Digestion,Digestion/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Digestion,Site/Digestion,Digestion/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
+District Heating,Site/District Heating,District Heating/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+District Heating,Site/District Heating,District Heating/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+District Heating,Site/District Heating,District Heating/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+District Heating,Site/District Heating,District Heating/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+District Heating,Site/District Heating,District Heating/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+District Heating,Site/District Heating,District Heating/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+District Heating,Site/District Heating,District Heating/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
+Evaporator,Site/Evaporator,Evaporator/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Evaporator,Site/Evaporator,Evaporator/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Evaporator,Site/Evaporator,Evaporator/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Evaporator,Site/Evaporator,Evaporator/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Evaporator,Site/Evaporator,Evaporator/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Evaporator,Site/Evaporator,Evaporator/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Evaporator,Site/Evaporator,Evaporator/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
+Miscellaneous 1,Site/Miscellaneous 1,Miscellaneous 1/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Miscellaneous 1,Site/Miscellaneous 1,Miscellaneous 1/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Miscellaneous 1,Site/Miscellaneous 1,Miscellaneous 1/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Miscellaneous 1,Site/Miscellaneous 1,Miscellaneous 1/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Miscellaneous 1,Site/Miscellaneous 1,Miscellaneous 1/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Miscellaneous 1,Site/Miscellaneous 1,Miscellaneous 1/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Miscellaneous 1,Site/Miscellaneous 1,Miscellaneous 1/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
+Miscellaneous 2,Site/Miscellaneous 2,Miscellaneous 2/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Miscellaneous 2,Site/Miscellaneous 2,Miscellaneous 2/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Miscellaneous 2,Site/Miscellaneous 2,Miscellaneous 2/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Miscellaneous 2,Site/Miscellaneous 2,Miscellaneous 2/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Miscellaneous 2,Site/Miscellaneous 2,Miscellaneous 2/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Miscellaneous 2,Site/Miscellaneous 2,Miscellaneous 2/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Miscellaneous 2,Site/Miscellaneous 2,Miscellaneous 2/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
+Miscellaneous 3,Site/Miscellaneous 3,Miscellaneous 3/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Miscellaneous 3,Site/Miscellaneous 3,Miscellaneous 3/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Miscellaneous 3,Site/Miscellaneous 3,Miscellaneous 3/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Miscellaneous 3,Site/Miscellaneous 3,Miscellaneous 3/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Miscellaneous 3,Site/Miscellaneous 3,Miscellaneous 3/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Miscellaneous 3,Site/Miscellaneous 3,Miscellaneous 3/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Miscellaneous 3,Site/Miscellaneous 3,Miscellaneous 3/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
+Miscellaneous 4,Site/Miscellaneous 4,Miscellaneous 4/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Miscellaneous 4,Site/Miscellaneous 4,Miscellaneous 4/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Miscellaneous 4,Site/Miscellaneous 4,Miscellaneous 4/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Miscellaneous 4,Site/Miscellaneous 4,Miscellaneous 4/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Miscellaneous 4,Site/Miscellaneous 4,Miscellaneous 4/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Miscellaneous 4,Site/Miscellaneous 4,Miscellaneous 4/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Miscellaneous 4,Site/Miscellaneous 4,Miscellaneous 4/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
+Miscellaneous 5,Site/Miscellaneous 5,Miscellaneous 5/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Miscellaneous 5,Site/Miscellaneous 5,Miscellaneous 5/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Miscellaneous 5,Site/Miscellaneous 5,Miscellaneous 5/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Miscellaneous 5,Site/Miscellaneous 5,Miscellaneous 5/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Miscellaneous 5,Site/Miscellaneous 5,Miscellaneous 5/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Miscellaneous 5,Site/Miscellaneous 5,Miscellaneous 5/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Miscellaneous 5,Site/Miscellaneous 5,Miscellaneous 5/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
+Miscellaneous 6,Site/Miscellaneous 6,Miscellaneous 6/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Miscellaneous 6,Site/Miscellaneous 6,Miscellaneous 6/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Miscellaneous 6,Site/Miscellaneous 6,Miscellaneous 6/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Miscellaneous 6,Site/Miscellaneous 6,Miscellaneous 6/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Miscellaneous 6,Site/Miscellaneous 6,Miscellaneous 6/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Miscellaneous 6,Site/Miscellaneous 6,Miscellaneous 6/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Miscellaneous 6,Site/Miscellaneous 6,Miscellaneous 6/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
+Miscellaneous 7,Site/Miscellaneous 7,Miscellaneous 7/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Miscellaneous 7,Site/Miscellaneous 7,Miscellaneous 7/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Miscellaneous 7,Site/Miscellaneous 7,Miscellaneous 7/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Miscellaneous 7,Site/Miscellaneous 7,Miscellaneous 7/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Miscellaneous 7,Site/Miscellaneous 7,Miscellaneous 7/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Miscellaneous 7,Site/Miscellaneous 7,Miscellaneous 7/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Miscellaneous 7,Site/Miscellaneous 7,Miscellaneous 7/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
+Paper Room,Site/Paper Room,Paper Room/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Paper Room,Site/Paper Room,Paper Room/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Paper Room,Site/Paper Room,Paper Room/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Paper Room,Site/Paper Room,Paper Room/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Paper Room,Site/Paper Room,Paper Room/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Paper Room,Site/Paper Room,Paper Room/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Paper Room,Site/Paper Room,Paper Room/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
+Recovery Boiler,Site/Recovery Boiler,Recovery Boiler/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Recovery Boiler,Site/Recovery Boiler,Recovery Boiler/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Recovery Boiler,Site/Recovery Boiler,Recovery Boiler/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Recovery Boiler,Site/Recovery Boiler,Recovery Boiler/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Recovery Boiler,Site/Recovery Boiler,Recovery Boiler/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Recovery Boiler,Site/Recovery Boiler,Recovery Boiler/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Recovery Boiler,Site/Recovery Boiler,Recovery Boiler/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
+Stripper,Site/Stripper,Stripper/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Stripper,Site/Stripper,Stripper/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Stripper,Site/Stripper,Stripper/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Stripper,Site/Stripper,Stripper/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Stripper,Site/Stripper,Stripper/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Stripper,Site/Stripper,Stripper/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Stripper,Site/Stripper,Stripper/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
+Wash,Site/Wash,Wash/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Wash,Site/Wash,Wash/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Wash,Site/Wash,Wash/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Wash,Site/Wash,Wash/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Wash,Site/Wash,Wash/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Wash,Site/Wash,Wash/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Wash,Site/Wash,Wash/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
