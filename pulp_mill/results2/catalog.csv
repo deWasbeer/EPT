@@ -1,0 +1,8 @@
+Zone,Zone Address,Target,Target Type,Graph Type,Graph Name,Index
+Bleaching,Site/Bleaching,Bleaching/Direct Integration,Direct Integration,Composite Curves,Graph 1,0
+Bleaching,Site/Bleaching,Bleaching/Direct Integration,Direct Integration,Shifted Composite Curves,Graph 2,1
+Bleaching,Site/Bleaching,Bleaching/Direct Integration,Direct Integration,Balanced Composite Curves,Graph 3,2
+Bleaching,Site/Bleaching,Bleaching/Direct Integration,Direct Integration,Grand Composite Curve,Graph 4,3
+Bleaching,Site/Bleaching,Bleaching/Direct Integration,Direct Integration,Grand Composite Curve (Real),Graph 5,4
+Bleaching,Site/Bleaching,Bleaching/Direct Integration,Direct Integration,Net Load Profiles,Graph 6,5
+Bleaching,Site/Bleaching,Bleaching/Direct Integration,Direct Integration,Grand Composite Curve with Heat Pump,Graph 7,6
